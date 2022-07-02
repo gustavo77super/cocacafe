@@ -1,0 +1,1 @@
+window.alert("Esse site foi baseado no site oficial da Coca-Cola");

@@ -1,0 +1,59 @@
+
+body{
+    font: url(JAi_____.TTF)
+}
+.titulo{
+    text-align: center;
+    font: 35px url(JAi_____.TTF);
+    color:white;
+    background-color:red;
+    border: 15px;
+    border-radius: 15px;
+    border-width: 15px;
+    border-right: 15px;
+    margin: 0px 450px 0px 450px;
+}
+.borda{
+    text-align: center;
+    font: url(JAi_____.TTF);
+    Color:white;
+    background-color:red;
+    border:15px;
+    border-radius: 15px;
+    border-width: 15px;
+    border-right: 15px;
+    margin: 50px 50px 0px 1300px;
+}
+.borda1{
+    text-align: center;
+    font: url(JAi_____.TTF);
+    Color:white;
+    background-color:red;
+    border:15px;
+    border-radius: 7px;
+    border-width: 15px;
+    border-right: 15px;
+    margin: 50px 1300px 0px 50px;
+}
+.borda2{
+    text-align: center;
+    font: url(JAi_____.TTF);
+    Color:white;
+    background-color:red;
+    border:15px;
+    border-radius: 7px;
+    border-width: 15px;
+    border-right: 15px;
+    margin: 50px 50px 0px 1300px;
+}
+.borda3{
+    font: url(JAi_____.TTF);
+    text-align: center;
+    Color:white;
+    background-color:red;
+    border:15px;
+    border-radius: 7px;
+    border-width: 15px;
+    border-right: 15px;
+    margin: 50px 1300px 0px 50px;
+}
